@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: #111;
+}
+canvas {
+    border: 5px solid #fff;
+    border-bottom: transparent;
+    background: url("bkg.png");
+    margin: 0 auto;
+    display: block;
+}
